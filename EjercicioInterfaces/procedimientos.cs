@@ -1,6 +1,6 @@
 ﻿using EjercicioInterfaces;
 
-public class Operaciones : IOperaciones
+public class Procedimientos : IOperaciones
 {
     public double AreaRectangulo(double largo, double ancho)
     {
